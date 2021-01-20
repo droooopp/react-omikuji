@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-omikuji/static/css/main.6deee67e.chunk.css",
-    "main.js": "/react-omikuji/static/js/main.70455e60.chunk.js",
+    "main.js": "/react-omikuji/static/js/main.60a82757.chunk.js",
     "runtime-main.js": "/react-omikuji/static/js/runtime-main.9efc3050.js",
     "static/js/2.65513cc2.chunk.js": "/react-omikuji/static/js/2.65513cc2.chunk.js",
     "static/js/3.128e6025.chunk.js": "/react-omikuji/static/js/3.128e6025.chunk.js",
@@ -12,6 +12,6 @@
     "static/js/runtime-main.9efc3050.js",
     "static/js/2.65513cc2.chunk.js",
     "static/css/main.6deee67e.chunk.css",
-    "static/js/main.70455e60.chunk.js"
+    "static/js/main.60a82757.chunk.js"
   ]
 }
